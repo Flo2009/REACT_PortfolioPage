@@ -1,0 +1,11 @@
+ /* Fixed navbar/footer */
+ .navbar-footer {
+  position: fixed;
+  width: 100%;
+  z-index: 1030; /* Ensure it stays on top */
+}
+
+ /* Footer specific */
+ .navbar-bottom {
+  bottom: 0;
+}
