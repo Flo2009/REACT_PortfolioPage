@@ -36,8 +36,12 @@ You can load the page or follow the link and the web page tells you about me<br>
 and my skill-set<br>
 The other option is to use the app as a template for an own REACT portfolio page.
 
-
-![Screen](./images/Newimage.png)
+Landing Page<br>
+![Landing](/app/public/Start.gif)<br>
+Portfolio<br>
+![Portfolio](/app/public/Portfolio.gif)<br>
+Links<br>
+![Links](/app/public/Links.gif)
 
 ## Credits
 
